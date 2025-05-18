@@ -1,0 +1,2 @@
+Hello, Lazar-Scripts is your current directory.
+Current date is: Thu Dec 19 09:56:32 UTC 2024
